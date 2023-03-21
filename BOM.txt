@@ -1,0 +1,9 @@
+Name			Value		Manufacturer	Description
+R1-R4,R7			100K		Generic		Resistor 0805, 1%, 125mW
+R5			680K		Generic		Resistor 0805, 1%, 125mW
+R6,R8			1K		Generic		Resistor 0805, 1%, 125mW
+C1,C2			22n		Generic		Capacitor 0805, 25V, X7R
+C3			470n		Generic		Capacitor 0805, 25V, X7R
+C4			33p		Generic		Capacitor 0805, 25V, NP0/C0G
+U1			MCP6241		Microchip		Opamp, single, SOIC-8 package
+(alt)			UA741		Generic
